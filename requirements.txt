@@ -3,3 +3,4 @@ pandas
 yfinance
 ipywidgets
 plotly
+voila
